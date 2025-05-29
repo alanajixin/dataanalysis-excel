@@ -1,0 +1,48 @@
+OrderID,OrderDate,CustomerID,Quantity,Price,Brand,Model,CustomerName,Region,TotalAmount,Email
+1004,06-04-2024,C019,2,969,Google,Pixel 7,Henry Walker,East,1938,henrywalker@example.com
+1005,20-03-2024,C011,2,171,Adidas,Ultraboost,Elijah Moore,North,342,elijahmoore@example.com
+1006,25-03-2024,C015,1,243,Fitbit,Versa 3,Benjamin Jackson,West,243,benjaminjackson@example.com
+1007,10-04-2024,C017,2,191,Nike,Air Max 90,Lucas Harris,North,382,lucasharris@example.com
+1009,15-03-2024,C003,3,1045,MacBook,Pro,Alex Johnson,West,3135,alexjohnson@example.com
+1011,31-03-2024,C002,1,617,Google,Pixel 7,Sarah Smith,West,617,sarahsmith@example.com
+1016,11-04-2024,C016,3,649,Nike,Air Max 90,Mia White,South,1947,miawhite@example.com
+1017,06-04-2024,C010,1,1173,MacBook,Pro,Ava Martin,West,1173,avamartin@example.com
+1019,04-04-2024,C011,3,83,Dell,XPS 13,Elijah Moore,North,249,elijahmoore@example.com
+1021,12-04-2024,C001,3,229,Samsung,Galaxy S21,John Doe,South,687,johndoe@example.com
+1026,04-04-2024,C015,2,483,Adidas,Ultraboost,Benjamin Jackson,West,966,benjaminjackson@example.com
+1027,11-04-2024,C009,1,422,Adidas,Ultraboost,Noah Davis,West,422,noahdavis@example.com
+1029,21-03-2024,C010,1,543,Samsung,Galaxy S21,Ava Martin,West,543,avamartin@example.com
+1031,02-04-2024,C015,3,221,Google,Pixel 7,Benjamin Jackson,West,663,benjaminjackson@example.com
+1032,14-04-2024,C013,3,557,Dell,XPS 13,James Anderson,West,1671,jamesanderson@example.com
+1033,24-03-2024,C008,3,1039,Apple,AirPods Pro,Olivia Wilson,North,3117,oliviawilson@example.com
+1034,03-04-2024,C009,3,693,Sony,WH-1000XM4,Noah Davis,West,2079,noahdavis@example.com
+1035,14-04-2024,C006,3,754,Fitbit,Versa 3,Emma Watson,North,2262,emmawatson@example.com
+1037,27-03-2024,C005,1,208,Google,Pixel 7,Michael Thompson,East,208,michaelthompson@example.com
+1038,13-04-2024,C003,2,655,Nike,Air Max 90,Alex Johnson,West,1310,alexjohnson@example.com
+1039,08-04-2024,C007,1,1062,Apple,AirPods Pro,Liam Brown,East,1062,liambrown@example.com
+1040,30-03-2024,C012,2,935,Levi’s,501 Jeans,Isabella Taylor,North,1870,isabellataylor@example.com
+1041,22-03-2024,C014,2,1067,MacBook,Pro,Sophia Thomas,North,2134,sophiathomas@example.com
+1042,24-03-2024,C003,2,912,Dell,XPS 13,Alex Johnson,West,1824,alexjohnson@example.com
+1044,11-04-2024,C005,3,309,Nike,Air Max 90,Michael Thompson,East,927,michaelthompson@example.com
+1047,06-04-2024,C004,3,1164,Nike,Air Max 90,Priya Kaur,South,3492,priyakaur@example.com
+1048,13-04-2024,C002,1,287,Apple,AirPods Pro,Sarah Smith,West,287,sarahsmith@example.com
+1049,01-04-2024,C001,2,356,Apple,AirPods Pro,John Doe,South,712,johndoe@example.com
+1050,29-03-2024,C008,3,932,Google,Pixel 7,Olivia Wilson,North,2796,oliviawilson@example.com
+1056,18-03-2024,C005,3,1037,Adidas,Ultraboost,Michael Thompson,East,3111,michaelthompson@example.com
+1057,23-03-2024,C019,3,901,Adidas,Ultraboost,Henry Walker,East,2703,henrywalker@example.com
+1058,01-04-2024,C010,1,645,Fitbit,Versa 3,Ava Martin,West,645,avamartin@example.com
+1060,22-03-2024,C020,3,887,MacBook,Pro,Amelia Young,South,2661,ameliayoung@example.com
+1061,09-04-2024,C020,2,682,Dell,XPS 13,Amelia Young,South,1364,ameliayoung@example.com
+1062,03-04-2024,C006,1,975,Samsung,Galaxy S21,Emma Watson,North,975,emmawatson@example.com
+1063,11-04-2024,C010,1,500,Levi’s,501 Jeans,Ava Martin,West,500,avamartin@example.com
+1068,25-03-2024,C010,3,584,Google,Pixel 7,Ava Martin,West,1752,avamartin@example.com
+1070,17-03-2024,C014,1,105,Dell,XPS 13,Sophia Thomas,North,105,sophiathomas@example.com
+1076,06-04-2024,C001,2,689,Google,Pixel 7,John Doe,South,1378,johndoe@example.com
+1080,21-03-2024,C017,1,623,MacBook,Pro,Lucas Harris,North,623,lucasharris@example.com
+1090,24-03-2024,C019,1,227,Google,Pixel 7,Henry Walker,East,227,henrywalker@example.com
+1092,29-03-2024,C015,2,770,Dell,XPS 13,Benjamin Jackson,West,1540,benjaminjackson@example.com
+1094,06-04-2024,C017,1,1113,Google,Pixel 7,Lucas Harris,North,1113,lucasharris@example.com
+1095,11-04-2024,C018,2,536,MacBook,Pro,Charlotte Lewis,West,1072,charlottelewis@example.com
+1096,08-04-2024,C016,2,848,Google,Pixel 7,Mia White,South,1696,miawhite@example.com
+1099,13-04-2024,C014,3,626,Samsung,Galaxy S21,Sophia Thomas,North,1878,sophiathomas@example.com
+1100,10-04-2024,C006,1,875,Adidas,Ultraboost,Emma Watson,North,875,emmawatson@example.com
